@@ -5,12 +5,14 @@ description: An optional about page for Scriptor Jekyll theme
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**RustyPeeps** is a Rust training company based in [Odisha, India](https://en.wikipedia.org/wiki/Odisha). With a mission to empower developers, RustyPeeps provides comprehensive, high-quality training programs designed for both freshers and experienced professionals. Our courses are focused on building real-world skills that can be applied at the industrial level, ensuring that learners are equipped for the challenges of the modern tech landscape.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Our tailored courses cover everything from the basics of Rust to advanced topics, and are designed to meet the unique needs of each student. Whether you're looking to learn Rust for personal growth or to enhance your career prospects, we offer the right training for you. Plus, we offer our programs at a price so affordable, it’s cheaper than a burger meal – making top-tier Rust training accessible to everyone.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+RustyPeeps has been recognized for its dedication to quality and industry-relevant training, making it a trusted name among developers and organizations looking to scale their Rust expertise. We take pride in helping our students grow into confident, capable Rust developers.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+> "Empowering developers with Rust skills to shape a brighter tech future." <cite>RustyPeeps Motto</cite>
 
-*Thank You for reading!*
+In addition to training, RustyPeeps actively contributes to the Rust developer community by hosting workshops, webinars, and open-source initiatives. We envision a world where Rust is the go-to language for reliable, efficient, and secure software development.
+
+*Thank you for being a part of our journey!*
