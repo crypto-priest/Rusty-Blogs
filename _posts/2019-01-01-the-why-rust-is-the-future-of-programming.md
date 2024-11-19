@@ -3,7 +3,7 @@ layout: post
 title: "Why Rust is the Future of Programming"
 description: "An introduction to Rust and why it’s gaining traction as a powerful, modern programming language."
 date: 2024-11-16
-feature_image: images/rust-future.jpg
+feature_image: images/rust-future.jpeg
 tags: [rust, programming, trends]
 ---
 
