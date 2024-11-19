@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
+  "name": "RustyPeeps",
+  "bio": "RustyPeeps is a company that provides Rust training to freshers and experienced employees, helping them skill up in the Rust programming language.",
+  "url": "https://rustypeeps.school",
+  "location": "Odisha, India",
   "image": "images/author.png"
 }
