@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/author.jpg
+feature_image: images/author.png
 ---
 
 **RustyPeeps** is a Rust training company based in [Odisha, India](https://en.wikipedia.org/wiki/Odisha). With a mission to empower developers, RustyPeeps provides comprehensive, high-quality training programs designed for both freshers and experienced professionals. Our courses are focused on building real-world skills that can be applied at the industrial level, ensuring that learners are equipped for the challenges of the modern tech landscape.
